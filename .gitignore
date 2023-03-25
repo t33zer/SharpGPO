@@ -7,3 +7,5 @@ x86/
 .vs/
 
 packages/
+
+.dotnet.yml.un~
